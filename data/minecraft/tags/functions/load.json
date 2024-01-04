@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "xpower:load"
+    "xpower:load",
+    "xpower:main"
   ]
 }
